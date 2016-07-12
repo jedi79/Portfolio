@@ -1,0 +1,17 @@
+.social {
+	position: fixed;
+	display: block;
+	top: 3;
+	left: 8;
+	width: 30px;
+}
+
+.fb {
+	width: 40px;
+	height: 40px;
+}
+
+.tweet {
+	width: 40px;
+	height: 40px;
+}
