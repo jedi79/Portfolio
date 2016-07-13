@@ -49,3 +49,15 @@ a {
 	font-family: lucida;
 	font-size: 20px;
 }
+
+#main {
+	clear: left;
+	position: fixed;
+	display: block;
+	margin-top: 160px;
+	margin-left: 40px;
+}
+
+
+
+
