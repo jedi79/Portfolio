@@ -19,21 +19,22 @@
 h1 {
 	position: fixed;
 	font-family: lucida;
+	font-size: 2em;
 	letter-spacing: 2px;
 	color: #b30000;
-	margin-top: 40px;
+	margin-top: 20px;
 	margin-left: 80px;
 }
 
 .menu {
 	position: fixed;
 	float: right;
-	top: 50px;
+	top: 70px;
 	right: 0;
 	font-variant: small-caps;
 	letter-spacing: 3px;
 	list-style-type: none;
-	width: 40%;
+	width: 490px;
 	background-color: black;
 }
 
